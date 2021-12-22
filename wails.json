@@ -1,0 +1,20 @@
+{
+  "name": "wails-test",
+  "frontend:build": "",
+  "frontend:install": "",
+  "frontend:dev": "",
+  "wailsjsdir": "./frontend",
+  "version": "2",
+  "Path": "",
+  "BuildDir": "",
+  "outputfilename": "wails-test.exe",
+  "OutputType": "",
+  "Platform": "",
+  "Author": {
+    "name": "jamie",
+    "email": "98386@qq.com"
+  },
+  "debounceMS": 100,
+  "devserverurl": "http://localhost:34115",
+  "appargs": ""
+}
