@@ -2,7 +2,7 @@
 
 ## About
 
-This template uses vanilla JS / HTML and CSS.
+前后端双向通讯演示.
 
 ## Live Development
 
